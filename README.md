@@ -1,4 +1,4 @@
-# EOYProject
+# EOY Project
 
 Create a game which is either Player vs Player or Player vs Environment/AI. Your game must have the below requirements:
 - Include a minimum of 2 sprites.
